@@ -1,4 +1,5 @@
 /* Global Layout Set-up */
+/* Sailor Blue Color Scheme */
 * { 
   box-sizing: border-box;
 }
@@ -15,7 +16,6 @@ body {
 h3 a{
   color: #1b2c3a;
   text-decoration: underline;
-}
 }
 a {
   text-decoration: none;
@@ -122,14 +122,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #6993b8;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #2e4a62;
 }
 
 footer {
@@ -234,6 +234,18 @@ p.date{
 }
 .tech_experience p{
   padding: 0px 10px;
+}
+/* Contact Page CSS */
+.contact_tag{
+  width: 60%;
+  margin: 150px auto;
+  transition: all .5s;
+  transform: none;
+}
+#social_media a{
+  color: #1b2c3a;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 /* Styles for larger screens */
