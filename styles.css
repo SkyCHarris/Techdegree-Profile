@@ -247,6 +247,9 @@ p.date{
   font-size: 20px;
   font-weight: bold;
 }
+#social_media h1{
+  font-size: 30px;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
