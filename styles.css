@@ -246,9 +246,11 @@ p.date{
   color: #1b2c3a;
   font-size: 20px;
   font-weight: bold;
+  transition: all 1s;
 }
 #social_media h1{
   font-size: 30px;
+  transition: all 2s;
 }
 
 /* Styles for larger screens */
